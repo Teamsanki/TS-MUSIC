@@ -29,13 +29,13 @@ from strings import get_string
 #--------------------------
 
 NEXI_VID = [
-"https://firebasestorage.googleapis.com/v0/b/social-bite-skofficial.appspot.com/o/SANKI%2FNAPSTER%20MUSIC.mp4?alt=media&token=0301520b-434c-40f9-9271-84cd2485ec3f",
-"https://firebasestorage.googleapis.com/v0/b/social-bite-skofficial.appspot.com/o/SANKI%2FNAPSTER%20MUSIC.mp4?alt=media&token=0301520b-434c-40f9-9271-84cd2485ec3f",
-"https://firebasestorage.googleapis.com/v0/b/social-bite-skofficial.appspot.com/o/SANKI%2FNAPSTER%20MUSIC.mp4?alt=media&token=0301520b-434c-40f9-9271-84cd2485ec3f",
-"https://firebasestorage.googleapis.com/v0/b/social-bite-skofficial.appspot.com/o/SANKI%2FNAPSTER%20MUSIC.mp4?alt=media&token=0301520b-434c-40f9-9271-84cd2485ec3f",
-"https://firebasestorage.googleapis.com/v0/b/social-bite-skofficial.appspot.com/o/SANKI%2FNAPSTER%20MUSIC.mp4?alt=media&token=0301520b-434c-40f9-9271-84cd2485ec3f",
-"https://firebasestorage.googleapis.com/v0/b/social-bite-skofficial.appspot.com/o/SANKI%2FNAPSTER%20MUSIC.mp4?alt=media&token=0301520b-434c-40f9-9271-84cd2485ec3f",
-"https://firebasestorage.googleapis.com/v0/b/social-bite-skofficial.appspot.com/o/SANKI%2FNAPSTER%20MUSIC.mp4?alt=media&token=0301520b-434c-40f9-9271-84cd2485ec3f",
+"https://firebasestorage.googleapis.com/v0/b/social-bite-skofficial.appspot.com/o/SANKI%2FVID_20250528_234654_874.mp4?alt=media&token=cc65962f-c43f-4add-b324-6a7a01c4fff0",
+"https://firebasestorage.googleapis.com/v0/b/social-bite-skofficial.appspot.com/o/SANKI%2FVID_20250528_234654_874.mp4?alt=media&token=cc65962f-c43f-4add-b324-6a7a01c4fff0",
+"https://firebasestorage.googleapis.com/v0/b/social-bite-skofficial.appspot.com/o/SANKI%2FVID_20250528_234654_874.mp4?alt=media&token=cc65962f-c43f-4add-b324-6a7a01c4fff0",
+"https://firebasestorage.googleapis.com/v0/b/social-bite-skofficial.appspot.com/o/SANKI%2FVID_20250528_234654_874.mp4?alt=media&token=cc65962f-c43f-4add-b324-6a7a01c4fff0",
+"https://firebasestorage.googleapis.com/v0/b/social-bite-skofficial.appspot.com/o/SANKI%2FVID_20250528_234654_874.mp4?alt=media&token=cc65962f-c43f-4add-b324-6a7a01c4fff0",
+"https://firebasestorage.googleapis.com/v0/b/social-bite-skofficial.appspot.com/o/SANKI%2FVID_20250528_234654_874.mp4?alt=media&token=cc65962f-c43f-4add-b324-6a7a01c4fff0",
+"https://firebasestorage.googleapis.com/v0/b/social-bite-skofficial.appspot.com/o/SANKI%2FVID_20250528_234654_874.mp4?alt=media&token=cc65962f-c43f-4add-b324-6a7a01c4fff0",
 
 ]
 
