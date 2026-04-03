@@ -1,10 +1,9 @@
-from SANKIXD.core.bot import SANKI
-from SANKIXD.core.dir import dirr
-from SANKIXD.core.git import git
-from SANKIXD.core.userbot import Userbot
-from SANKIXD.misc import dbb, heroku
-from pyrogram import Client
-from SafoneAPI import SafoneAPI
+from Ayush.core.bot import Aayu
+from Ayush.core.dir import dirr
+from Ayush.core.git import git
+from Ayush.core.userbot import Userbot
+from Ayush.misc import dbb, heroku
+
 from .logging import LOGGER
 
 dirr()
@@ -12,8 +11,7 @@ git()
 dbb()
 heroku()
 
-app = SANKI()
-api = SafoneAPI()
+app = Aayu()
 userbot = Userbot()
 
 from .platforms import *
