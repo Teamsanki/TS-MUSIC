@@ -1,4 +1,4 @@
-from SANKIXD.core.bot import Aayu
+from SANKIXD.core.bot import SANKIXD
 from SANKIXD.core.dir import dirr
 from SANKIXD.core.git import git
 from SANKIXD.core.userbot import Userbot
